@@ -1,24 +1,22 @@
 BreakOut
 ===========
-BreakOut£¬Ò»¸ö¼òµ¥µÄ´ò×©¿éÓÎÏ·£¬Ê¹ÓÃ2DÒıÇæHGE±àĞ´¡£<br />
+BreakOutï¼Œä¸€ä¸ªç®€å•çš„æ‰“ç –å—æ¸¸æˆï¼Œä½¿ç”¨2Då¼•æ“HGEç¼–å†™ã€‚<br />
 
-###»·¾³<br />
+###ç¯å¢ƒ<br />
 * HGE 1.81<br />
-	ÓÉÓÚ¹Ù·½°æHGEÒÑÎŞ·¨Ê¹ÓÃ£¨³¤Ê±¼äÎ´¸üĞÂ£¬Ö»Ö§³Öµ½DirectX 8.0£©£¬ÇëÏÂÔØĞŞ¸Ä°æ£¨Ö§³ÖDirectX 9.0£©£¬ÏÂÔØµØÖ·£ºhttp://pan.baidu.com/s/1bn3Ytcz<br />
+	ç”±äºå®˜æ–¹ç‰ˆHGEå·²æ— æ³•ä½¿ç”¨ï¼ˆé•¿æ—¶é—´æœªæ›´æ–°ï¼Œåªæ”¯æŒåˆ°DirectX 8.0ï¼‰ï¼Œè¯·ä¸‹è½½ä¿®æ”¹ç‰ˆï¼ˆæ”¯æŒDirectX 9.0ï¼‰ï¼Œä¸‹è½½åœ°å€ï¼šhttp://pan.baidu.com/s/1bn3Ytcz<br />
 * Visual Studio 2012<br />
-* Microsoft DirectX SDK (June 2010Îª×îĞÂ°æ±¾)
-	¹Ù·½ÏÂÔØµØÖ·£ºhttp://www.microsoft.com/en-us/download/details.aspx?id=6812
+* Microsoft DirectX SDK (June 2010ä¸ºæœ€æ–°ç‰ˆæœ¬)<br />
+	å®˜æ–¹ä¸‹è½½åœ°å€ï¼šhttp://www.microsoft.com/en-us/download/details.aspx?id=6812<br />
 
-###ÅäÖÃ<br />
-²Î¿¼´ËÆª²©ÎÄÅäÖÃ·½·¨£ºhttp://blog.csdn.net/hadahuluwa/article/details/7527021
+###é…ç½®<br />
+å‚è€ƒæ­¤ç¯‡åšæ–‡é…ç½®æ–¹æ³•ï¼šhttp://blog.csdn.net/hadahuluwa/article/details/7527021
 
-###ÔËĞĞ<br />
-¿ÉÒÔÖ±½ÓÔËĞĞ³ÌĞòÎÄ¼ş¼ĞÏÂµÄBreakOut.exe£¬ÔËĞĞÖ®Ç°ÇëÏÈÔÄ¶ÁÍ¬Ä¿Â¼ÏÂµÄËµÃ÷ÎÄ¼ş£¨ÓÎÏ·ËµÃ÷.txt£©£¬ÔÚ´Ë²»ÔÙËµÃ÷
+###è¿è¡Œ<br />
+å¯ä»¥ç›´æ¥è¿è¡Œç¨‹åºæ–‡ä»¶å¤¹ä¸‹çš„BreakOut.exeï¼Œè¿è¡Œä¹‹å‰è¯·å…ˆé˜…è¯»åŒç›®å½•ä¸‹çš„è¯´æ˜æ–‡ä»¶ï¼ˆæ¸¸æˆè¯´æ˜.txtï¼‰ï¼Œåœ¨æ­¤ä¸å†è¯´æ˜
 
-###ÁªÏµ<br />
-ÈçÓĞÎÊÌâ£¬»¶Ó­ÁªÏµÎÒ<br />
-Email£ºlfeng980162@hotmail.com<br />
+###è”ç³»<br />
+å¦‚æœ‰é—®é¢˜ï¼Œæ¬¢è¿è”ç³»æˆ‘<br />
+Emailï¼šlfeng980162@hotmail.com<br />
 
 2014/06/02<br />
-
-
