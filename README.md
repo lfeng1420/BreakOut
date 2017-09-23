@@ -17,6 +17,6 @@ BreakOut，一个简单的打砖块游戏，使用2D引擎HGE编写。<br />
 
 ###联系<br />
 如有问题，欢迎联系我<br />
-Email：lfeng980162@hotmail.com<br />
+Email：lfeng1420@hotmail.com<br />
 
 2014/06/02<br />
